@@ -6,3 +6,5 @@ Currently learning: Python, JavaScript, APIs, databases, and full-stack developm
 Languages: Spanish (native) | English (TOEIC 940 — CEFR B2)
 
 Interests: Backend development, AI, automation, open source
+
+Connect: arturo.moya.contact@gmail.com
