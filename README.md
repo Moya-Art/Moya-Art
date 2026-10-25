@@ -9,4 +9,4 @@ Interests: Backend development, AI, automation, open source
 
 Connect: arturo.moya.contact@gmail.com
 
-<img src="planet.gif" width="100%" alt="ASCII planet with ring">
+<img src="planet12.gif" width="100%" alt="ASCII planet with ring">
